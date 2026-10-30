@@ -38,7 +38,7 @@ So I started building what I actually need: lean, privacy-friendly, no subscript
 | **Nova Delivery Dates** | Fixed monthly shipping dates with order cut-off per supplier – shown from the product page to the e-mail. | [SW6-Nova-Lieferzeiten](https://github.com/DrdotHouse2106/SW6-Nova-Lieferzeiten) |
 | **Nova Vehicle Switcher** | Horizontal vehicle quick selector in the header for shops with vehicle-specific ranges. | [SW6-Nova-Fahrzeugauswahl](https://github.com/DrdotHouse2106/SW6-Nova-Fahrzeugauswahl) |
 
-All plugins are **MIT licensed** (exception: Nova Vehicle Switcher, GPL-3.0). Every README is available in German and English.
+All plugins are **MIT licensed**. Every README is available in German and English.
 
 ### ERPNext
 

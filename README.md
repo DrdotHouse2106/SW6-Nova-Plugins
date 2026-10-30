@@ -38,7 +38,7 @@ Irgendwann habe ich angefangen, die Dinge, die ich wirklich brauche, selbst umzu
 | **Nova Lieferzeiten** | Feste monatliche Versandtermine mit Bestellschluss je Lieferant – angezeigt von der Produktseite bis zur E-Mail. | [SW6-Nova-Lieferzeiten](https://github.com/DrdotHouse2106/SW6-Nova-Lieferzeiten) |
 | **Nova Fahrzeugauswahl** | Horizontale Fahrzeug-Schnellauswahl im Header für Shops mit fahrzeugbezogenem Sortiment. | [SW6-Nova-Fahrzeugauswahl](https://github.com/DrdotHouse2106/SW6-Nova-Fahrzeugauswahl) |
 
-Alle Plugins stehen unter der **MIT-Lizenz** (Ausnahme: Nova Fahrzeugauswahl, GPL-3.0). Jede README gibt es auf Deutsch und Englisch.
+Alle Plugins stehen unter der **MIT-Lizenz**. Jede README gibt es auf Deutsch und Englisch.
 
 ### Rund um ERPNext
 
