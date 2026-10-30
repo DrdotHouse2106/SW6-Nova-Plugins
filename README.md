@@ -34,8 +34,8 @@ Irgendwann habe ich angefangen, die Dinge, die ich wirklich brauche, selbst zu b
 | **Nova Kategorie-Automatik** | Ordnet Artikel über einen Code fest den passenden Kategorien zu – ohne langsame dynamische Produktgruppen. | [SW6-Nova-Kategorie-Automatik](https://github.com/DrdotHouse2106/SW6-Nova-Kategorie-Automatik) |
 | **Nova Termine** | Veranstaltungen und Messen im Admin pflegen, als Terminliste anzeigen, Treffen melden lassen – und Abholung auf Treffen als Versandart. | [SW6-Nova-Termine](https://github.com/DrdotHouse2106/SW6-Nova-Termine) |
 | **Nova Captcha** | Unsichtbarer Spam-Schutz ohne Google: Rechenaufgabe im Browser statt Bilderrätsel, keine Cookies, keine externen Anfragen. | [SW6-Nova-Captcha](https://github.com/DrdotHouse2106/SW6-Nova-Captcha) |
-| **Nova Tag Manager** | Google Tag Manager datenschutzkonform erst nach Zustimmung laden, mit E-Commerce-Ereignissen und erweiterten Conversions. | [sw-6-google-tag-manager](https://github.com/DrdotHouse2106/sw-6-google-tag-manager) |
-| **Nova Lieferzeiten** | Feste monatliche Versandtermine mit Bestellschluss je Lieferant – angezeigt von der Produktseite bis zur E-Mail. | [sw6-dynamische-lieferzeiten](https://github.com/DrdotHouse2106/sw6-dynamische-lieferzeiten) |
+| **Nova Tag Manager** | Google Tag Manager datenschutzkonform erst nach Zustimmung laden, mit E-Commerce-Ereignissen und erweiterten Conversions. | [SW6-Nova-Tag-Manager](https://github.com/DrdotHouse2106/SW6-Nova-Tag-Manager) |
+| **Nova Lieferzeiten** | Feste monatliche Versandtermine mit Bestellschluss je Lieferant – angezeigt von der Produktseite bis zur E-Mail. | [SW6-Nova-Lieferzeiten](https://github.com/DrdotHouse2106/SW6-Nova-Lieferzeiten) |
 | **Nova Fahrzeugauswahl** | Horizontale Fahrzeug-Schnellauswahl im Header für Shops mit fahrzeugbezogenem Sortiment. | [SW6-Nova-Fahrzeugauswahl](https://github.com/DrdotHouse2106/SW6-Nova-Fahrzeugauswahl) |
 
 Alle Plugins stehen unter der **MIT-Lizenz** (Ausnahme: Nova Fahrzeugauswahl, GPL-3.0). Jede README gibt es auf Deutsch und Englisch.

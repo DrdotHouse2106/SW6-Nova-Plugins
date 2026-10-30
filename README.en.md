@@ -34,8 +34,8 @@ So I started building what I actually need: lean, privacy-friendly, no subscript
 | **Nova Category Automation** | Assigns products to the matching categories via a code – without slow dynamic product groups. | [SW6-Nova-Kategorie-Automatik](https://github.com/DrdotHouse2106/SW6-Nova-Kategorie-Automatik) |
 | **Nova Events** | Manage events and fairs in the admin, show them as an event list, let visitors suggest events – plus pick-up at events as a shipping method. | [SW6-Nova-Termine](https://github.com/DrdotHouse2106/SW6-Nova-Termine) |
 | **Nova Captcha** | Invisible spam protection without Google: proof-of-work in the browser instead of image puzzles, no cookies, no external requests. | [SW6-Nova-Captcha](https://github.com/DrdotHouse2106/SW6-Nova-Captcha) |
-| **Nova Tag Manager** | Load Google Tag Manager only after consent, with e-commerce events and enhanced conversions. | [sw-6-google-tag-manager](https://github.com/DrdotHouse2106/sw-6-google-tag-manager) |
-| **Nova Delivery Dates** | Fixed monthly shipping dates with order cut-off per supplier – shown from the product page to the e-mail. | [sw6-dynamische-lieferzeiten](https://github.com/DrdotHouse2106/sw6-dynamische-lieferzeiten) |
+| **Nova Tag Manager** | Load Google Tag Manager only after consent, with e-commerce events and enhanced conversions. | [SW6-Nova-Tag-Manager](https://github.com/DrdotHouse2106/SW6-Nova-Tag-Manager) |
+| **Nova Delivery Dates** | Fixed monthly shipping dates with order cut-off per supplier – shown from the product page to the e-mail. | [SW6-Nova-Lieferzeiten](https://github.com/DrdotHouse2106/SW6-Nova-Lieferzeiten) |
 | **Nova Vehicle Switcher** | Horizontal vehicle quick selector in the header for shops with vehicle-specific ranges. | [SW6-Nova-Fahrzeugauswahl](https://github.com/DrdotHouse2106/SW6-Nova-Fahrzeugauswahl) |
 
 All plugins are **MIT licensed** (exception: Nova Vehicle Switcher, GPL-3.0). Every README is available in German and English.
