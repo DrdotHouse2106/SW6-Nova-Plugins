@@ -12,11 +12,11 @@
 
 Ich betreibe selbst mehrere Onlineshops – vor allem für Ersatzteile – und habe über die Jahre viele kommerzielle Plugins eingesetzt. Immer wieder dieselben Erfahrungen: Abos für Kleinigkeiten, Funktionen, die fast passen, aber eben nur fast, Daten, die über fremde Server laufen, und Plugins, die nach einem Shopware-Update monatelang nicht mehr funktionieren – ohne dass man selbst eingreifen kann.
 
-Irgendwann habe ich angefangen, die Dinge, die ich wirklich brauche, selbst zu bauen: schlank, datenschutzfreundlich, ohne Abo, und so, dass ich jede Zeile verstehe und anpassen kann.
+Irgendwann habe ich angefangen, die Dinge, die ich wirklich brauche, selbst umzusetzen: schlank, datenschutzfreundlich, ohne Abo und offen, sodass jeder sie prüfen und anpassen kann. Programmieren ist nicht mein Beruf – entstanden sind die Plugins mit Unterstützung von KI (Claude von Anthropic): Ich bringe die Anforderungen aus dem täglichen Shopbetrieb mit, teste alles in meinen eigenen Shops und entscheide, was hineinkommt.
 
 **Ich bin ein großer Freund von Open Source.** Mein Shop, mein Server, fast jedes Werkzeug, mit dem ich arbeite, beruht auf freier Software, die andere Menschen geteilt haben. Mit Nova möchte ich meinen Teil zurückgeben: Was mir hilft, soll auch anderen Shopbetreibern helfen – kostenlos, offen, zum Mitlesen, Mitverbessern und Weiterentwickeln.
 
-> Ich bin kein Profi-Entwickler, die Plugins sind mein Hobby neben dem eigentlichen Geschäft. Sie laufen in meinen eigenen Shops im Echtbetrieb, aber ohne Garantie und ohne Support-Anspruch. Fehlermeldungen und Verbesserungsvorschläge sind trotzdem jederzeit willkommen – am liebsten als Issue im jeweiligen Repository.
+> Ich bin kein Profi-Entwickler, die Plugins sind ein Hobby neben dem eigentlichen Geschäft. Sie laufen in meinen eigenen Shops im Echtbetrieb, aber ohne Garantie und ohne Support-Anspruch. Fehlermeldungen und Verbesserungsvorschläge sind trotzdem jederzeit willkommen – am liebsten als Issue im jeweiligen Repository.
 
 ---
 

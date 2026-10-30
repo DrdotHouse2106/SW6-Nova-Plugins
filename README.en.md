@@ -12,7 +12,7 @@
 
 I run several online shops myself – mostly spare parts – and have used plenty of commercial plugins over the years. The same experience again and again: subscriptions for small things, features that almost fit, data running through third-party servers, and plugins that break for months after a Shopware update with no way to fix them yourself.
 
-So I started building what I actually need: lean, privacy-friendly, no subscription, and in a way that I understand and can change every line.
+So I started building what I actually need: lean, privacy-friendly, no subscription and open, so anyone can review and adapt it. Programming is not my profession – the plugins were created with the help of AI (Claude by Anthropic): I bring the requirements from day-to-day shop operations, test everything in my own shops and decide what goes in.
 
 **I am a big fan of open source.** My shop, my server and almost every tool I work with rely on free software that other people shared. With Nova I want to give something back: what helps me should help other shop owners too – free, open, to read, improve and build upon.
 
