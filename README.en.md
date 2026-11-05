@@ -37,6 +37,7 @@ So I started building what I actually need: lean, privacy-friendly, no subscript
 | **Nova Tag Manager** | Load Google Tag Manager only after consent, with e-commerce events and enhanced conversions. | [SW6-Nova-Tag-Manager](https://github.com/DrdotHouse2106/SW6-Nova-Tag-Manager) |
 | **Nova Delivery Dates** | Fixed monthly shipping dates with order cut-off per supplier – shown from the product page to the e-mail. | [SW6-Nova-Lieferzeiten](https://github.com/DrdotHouse2106/SW6-Nova-Lieferzeiten) |
 | **Nova Shipping Costs** | Calculate shipping costs from your own carrier purchase tariffs: parcel building, letter/small parcel/DPD/DHL, bulky goods, peak and abroad – with freight via Cargoboard, delivery date in the checkout and margin control on the order. | [SW6-Nova-Versandkosten](https://github.com/DrdotHouse2106/SW6-Nova-Versandkosten) |
+| **Nova Nachfrage** | A friendly follow-up a few days after shipping: request for product and Google reviews plus similar products – as existing-customer marketing with permanently stored opt-out. | [SW6-Nova-Nachfrage](https://github.com/DrdotHouse2106/SW6-Nova-Nachfrage) |
 | **Nova Vehicle Switcher** | Horizontal vehicle quick selector in the header for shops with vehicle-specific ranges. | [SW6-Nova-Fahrzeugauswahl](https://github.com/DrdotHouse2106/SW6-Nova-Fahrzeugauswahl) |
 
 All plugins are **MIT licensed**. Every README is available in German and English.

@@ -37,6 +37,7 @@ Irgendwann habe ich angefangen, die Dinge, die ich wirklich brauche, selbst umzu
 | **Nova Tag Manager** | Google Tag Manager datenschutzkonform erst nach Zustimmung laden, mit E-Commerce-Ereignissen und erweiterten Conversions. | [SW6-Nova-Tag-Manager](https://github.com/DrdotHouse2106/SW6-Nova-Tag-Manager) |
 | **Nova Lieferzeiten** | Feste monatliche Versandtermine mit Bestellschluss je Lieferant – angezeigt von der Produktseite bis zur E-Mail. | [SW6-Nova-Lieferzeiten](https://github.com/DrdotHouse2106/SW6-Nova-Lieferzeiten) |
 | **Nova Versandkosten** | Versandkosten aus den eigenen Einkaufstarifen berechnen: Pakete bilden, Warenpost/Kleinpaket/DPD/DHL, Sperrgut, Peak und Ausland – mit Spedition über Cargoboard, Zustelldatum in der Kasse und Margenkontrolle an der Bestellung. | [SW6-Nova-Versandkosten](https://github.com/DrdotHouse2106/SW6-Nova-Versandkosten) |
+| **Nova Nachfrage** | Einige Tage nach dem Versand eine freundliche Nachfrage: Bitte um Produkt- und Google-Bewertung plus ähnliche Produkte – als Bestandskundenwerbung mit dauerhaft gespeicherter Abmeldung. | [SW6-Nova-Nachfrage](https://github.com/DrdotHouse2106/SW6-Nova-Nachfrage) |
 | **Nova Fahrzeugauswahl** | Horizontale Fahrzeug-Schnellauswahl im Header für Shops mit fahrzeugbezogenem Sortiment. | [SW6-Nova-Fahrzeugauswahl](https://github.com/DrdotHouse2106/SW6-Nova-Fahrzeugauswahl) |
 
 Alle Plugins stehen unter der **MIT-Lizenz**. Jede README gibt es auf Deutsch und Englisch.
